@@ -1,0 +1,7 @@
+resize-overlay-duration = 0s 0s
+#theme = nightfox
+theme = "catppuccin-mocha"
+background-opacity = 0
+command = "nu"
+confirm-close-surface = false
+#minimum-contrast = 1.3

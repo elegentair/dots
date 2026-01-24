@@ -1,0 +1,6 @@
+resize-overlay-duration = 0s 0s
+#theme = nordfox
+theme = catppuccin-mocha
+background-opacity = 0.4
+command = nu
+confirm-close-surface = false
