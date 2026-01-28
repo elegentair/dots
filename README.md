@@ -10,4 +10,6 @@ My most used configs are Fish (to be uploaded soon), hypr (Hyprland, my main com
 
 Before using the hyprland config, please note that using Ctrl + Shift + f is bound to fullscreenstate -1 2. This makes the currently focussed window "think" it is in fullscreen, prompting it to hide its UI. However, it stays within its window. When VSCodium is installed (I tested via the appimage, nix, and flatpak) this behavior breaks. I was unable to figure out why.   
 
+The color themeing for waybar is provided in the colors.css file. All unused colors are removed, and the bar only uses four colors (text, background, and two varible colors). These colors will be configured by Wallust.  
+
 An Emacs config will come soon.
